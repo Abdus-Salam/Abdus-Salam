@@ -1,4 +1,4 @@
-### Hi, I am problem solver. In AI 1+ yrs experiences and in Web Engineering 3+ yrs experiences. 👋
+### Hi, I am problem solver. In AI 1+ yrs experiences and in Web Engineering 3+ yrs experiences. Work in CodeIgniter, Laravel & VueJS. 👋
 
 <!--
 **Abdus-Salam/Abdus-Salam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
