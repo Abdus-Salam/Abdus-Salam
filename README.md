@@ -4,3 +4,4 @@
 - 🔭 I’m currently working on Web Application build using Laravel & vueJS.
 - 🌱 I’m currently learning Microservice Stack.
 - 👯 I’m looking to collaborate on Machine Learning.
+- [Linkedin Profile](https://www.linkedin.com/in/salamlink/)
