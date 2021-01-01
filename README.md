@@ -1,6 +1,6 @@
-### Hi, I am problem solver. In AI field, 1+ yrs experiences and in Web Engineering 3+ yrs experiences. Work in CodeIgniter, Laravel & VueJS. 👋
+### Hi, I am problem solver, Software Architect & very passionate with Web Technology. Build software via proper software SDLC. In AI field, 1+ years of experience and 3+ years of experience in Web Engineering. 
+### Technology Stack : C, Java, PHP, Javascript, NodeJS, CodeIgniter, Laravel, VueJS & Machine Learning. 👋
 
 - 🔭 I’m currently working on Web Application build using Laravel & vueJS.
 - 🌱 I’m currently learning Microservice Stack.
-- 👯 I’m looking to collaborate on Javascript & NodeJS.
-- 💬 Ask me about my email or skypee id.
+- 👯 I’m looking to collaborate on Machine Learning.
