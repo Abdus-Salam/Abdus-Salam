@@ -1,4 +1,4 @@
-### Hi, I am problem solver, Software Architect & very passionate with Web Technology. Build software via proper software SDLC. In AI field, 1+ years of experience and 3+ years of experience in Web Engineering. 
+### Hi, I am problem solver, Software Architect & very passionate with Web Technology. Build software via proper software SDLC. In AI field, 1+ years of experience and 4+ years of experience in Web Engineering. 
 ### Technology Stack : C, Java, PHP, Javascript, CodeIgniter, Laravel, VueJS & Machine Learning. 👋
 
 - 🔭 I’m currently working on Web Application build using Laravel & vueJS.
